@@ -1,0 +1,32 @@
+[
+	{
+	"nama" : "Muhamad Gema MAdani",
+	"umur" : 20,
+	"nrp" : "173040082",
+	"lulus" : true,
+	"hobby" : [
+			"Kuliner",
+			"Traveling"
+	],
+		"pembimbing" : {
+			"pembimbing1" : "Leony Lidya",
+			"pembimbing2" : "Fajar Darmawan"
+		}
+	},
+
+	{
+	"nama" : "Aman Sejahtera",
+	"umur" : 20,
+	"nrp" : "17304000",
+	"lulus" : true,
+	"hobby" : [
+			"Kuliner",
+			"Traveling"
+	],
+	"pembimbing" : {
+			"pembimbing1" : "Leony Lidya",
+			"pembimbing2" : "Fajar Darmawan"
+		}
+
+	}
+]
